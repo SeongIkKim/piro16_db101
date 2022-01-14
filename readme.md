@@ -18,5 +18,5 @@
 - [ ] Make migration files and migrate them.
 - [ ] [Optional] Visualize them by `pygraphviz`.
   ```bash
-  $ python3 manage.py graph_moels cafe -o cafe_er_diagram.png 
+  $ python3 manage.py graph_models cafe -o cafe_er_diagram.png 
   ```
